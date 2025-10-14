@@ -1,0 +1,5 @@
+implied_prob_diff
+spread
+total
+home_win_prob
+away_win_prob
